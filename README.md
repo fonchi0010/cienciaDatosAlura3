@@ -3,7 +3,7 @@
 
 ### Proyecto TelecomX parte 2
 
-Completar el proyecto*
+Desarrollar modelos predictivos, identificando clientes que tienen la mayor probabilidad de cancelar el servicio.
 
 ## Proyecto propuesto  por Alura Laan en el cuál el estudiante plasma lo aprendido en los cursos:
 
