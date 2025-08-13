@@ -15,7 +15,10 @@ Desarrollar modelos predictivos, identificando clientes que tienen la mayor prob
 * Clasificación: validación de modelos y métricas de evaluación.
 * IA aumentada: previsión de atrasos de vuelos.
 
-## Proyecto tiene X carpetas
+## Proyecto tiene 2 carpetas
+
+* data: datos_tratados.
+* proyecto_final: champion, TelecomX_2_Latam
 
 ## Como ejecutar
 * Primero descargar todo el archivo.
